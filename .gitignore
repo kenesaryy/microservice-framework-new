@@ -53,3 +53,5 @@ tags.temp
 development.env
 production.env
 test.env
+.github/workflows/main.yml
+.github/workflows/size.yml
